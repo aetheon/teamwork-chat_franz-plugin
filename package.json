@@ -12,6 +12,6 @@
     "urlInputSuffix": true,
     "hasIndirectMessages": true,
     "hasTeamId": true,
-    "urlInputSuffix": ".teamwork.com/chat"
+    "urlInputSuffix": ".teamwork.com/chat-canary"
   }
 }
