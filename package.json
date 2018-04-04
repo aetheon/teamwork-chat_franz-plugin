@@ -1,13 +1,13 @@
 {
-  "id": "teamwork-chat",
-  "name": "Teamwork Chat",
+  "id": "teamwork-chat-canary",
+  "name": "Teamwork Chat Canary",
   "version": "1.0.0",
-  "description": "Teamwork Chat",
+  "description": "Teamwork Chat Canary",
   "main": "index.js",
   "author": "Markus Spitzbarth",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://{teamId}.teamwork.com/chat",
+    "serviceURL": "https://{teamId}.teamwork.com/chat-canary",
     "hasNotificationSound": true,
     "urlInputSuffix": true,
     "hasIndirectMessages": true,
